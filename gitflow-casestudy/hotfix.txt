@@ -1,2 +1,15 @@
-This is the file in hotfix branch
-This is the third file
+pseudo code
+{
+Initial Function()
+{
+  //Sample Code
+}
+
+hotfix()
+{
+  //Sample Code for hotfix
+}
+
+
+
+}
