@@ -1,2 +1,15 @@
-This is the release file in release branch
-This is the second file
+pseudo code
+{
+Initial Function()
+{
+  //Sample Code
+}
+
+release()
+{
+  //Sample Code for release
+}
+
+
+
+}
