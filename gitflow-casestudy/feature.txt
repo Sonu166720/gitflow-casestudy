@@ -1,2 +1,16 @@
-This is a file in feature branch.This is the first file
+pseudo code
+{
+Initial Function()
+{
+  //Sample Code
+}
+
+feature1()
+{
+  //Sample Code for Feature 1
+}
+
+
+
+}
 
